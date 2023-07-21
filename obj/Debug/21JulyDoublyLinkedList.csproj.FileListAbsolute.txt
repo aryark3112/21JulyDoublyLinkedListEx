@@ -1,0 +1,8 @@
+D:\21JulyDoublyLinkedList\21JulyDoublyLinkedList\bin\Debug\21JulyDoublyLinkedList.exe.config
+D:\21JulyDoublyLinkedList\21JulyDoublyLinkedList\bin\Debug\21JulyDoublyLinkedList.exe
+D:\21JulyDoublyLinkedList\21JulyDoublyLinkedList\bin\Debug\21JulyDoublyLinkedList.pdb
+D:\21JulyDoublyLinkedList\21JulyDoublyLinkedList\obj\Debug\21JulyDoublyLinkedList.csproj.AssemblyReference.cache
+D:\21JulyDoublyLinkedList\21JulyDoublyLinkedList\obj\Debug\21JulyDoublyLinkedList.csproj.SuggestedBindingRedirects.cache
+D:\21JulyDoublyLinkedList\21JulyDoublyLinkedList\obj\Debug\21JulyDoublyLinkedList.csproj.CoreCompileInputs.cache
+D:\21JulyDoublyLinkedList\21JulyDoublyLinkedList\obj\Debug\21JulyDoublyLinkedList.exe
+D:\21JulyDoublyLinkedList\21JulyDoublyLinkedList\obj\Debug\21JulyDoublyLinkedList.pdb
