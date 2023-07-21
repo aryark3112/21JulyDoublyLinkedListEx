@@ -11,7 +11,7 @@ namespace _21JulyDoublyLinkedList
         static void Main(string[] args)
         {
             LinkedList linkedList = new LinkedList();
-            Node first = new Node            
+            Node first = new Node
             {
                 data = 12,
                 next = null,
